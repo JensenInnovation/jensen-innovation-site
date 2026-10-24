@@ -1,17 +1,20 @@
 # Jensen Innovation
 
-> Jensen Innovation makes small, offline-first apps by Klaus Jensen (Denmark). Its main app is PortalDex.
+> Jensen Innovation makes small, offline-first apps by Klaus Jensen (Denmark). Its main app is PortalDex, a collection tracker for toys-to-life collectors on iPhone and Android.
+
+PortalDex tracks five collections in one app: Skylanders figures, Skylanders cards, amiibo, Disney Infinity and LEGO Dimensions. It works offline with no account, no ads and no tracking, in 12 languages.
 
 ## PortalDex
-
-PortalDex is an unofficial collection tracker app for toys-to-life collectors, for iPhone and Android. It covers five collections: Skylanders figures (all six games, including variants, traps, vehicles, magic items and creation crystals), Skylanders cards (over 1,200 Topps, Battlecast and figure cards), amiibo, Disney Infinity (figures, play sets, power discs, toy box games) and LEGO Dimensions (characters, vehicles, gadgets).
-
-Features: full browsable catalogs; an About section per figure with release info, abilities, upgrade paths, catchphrases and variant identification tips; completion stats by game, set, element or series; a missing list; an indicative community price guide (loose and boxed, 16 currencies); duplicates, decks, wishlist, notes; CSV and PDF export; NFC figure scanning on Android; 12 languages. Works offline, no account, no ads, no tracking.
-
-PortalDex is an independent fan app, not affiliated with Activision, Nintendo, Disney, the LEGO Group or Topps.
-
-- [PortalDex home page](https://www.jensen-innovation.com/portaldex/)
-- [PortalDex on the App Store](https://apps.apple.com/app/id6779376140)
-- [PortalDex on Google Play](https://play.google.com/store/apps/details?id=com.portaldex.app)
+- [PortalDex app page](https://www.jensen-innovation.com/portaldex/): overview, features and FAQ
+- [Skylanders collection tracker](https://www.jensen-innovation.com/portaldex/skylanders/): Track your Skylanders collection with PortalDex: all six games, 588 catalog entries including variants, traps, vehicles, magic items and creation crystals, with catchphrases, abilities and NFC scanning on Android.
+- [Skylanders cards checklist](https://www.jensen-innovation.com/portaldex/skylanders-cards/): Skylanders card checklist in the PortalDex app: 1,238 cards — Topps Giants, SWAP Force and Trap Team trading cards, Skylanders Battlecast cards and the cards packed with every figure.
+- [Amiibo collection tracker](https://www.jensen-innovation.com/portaldex/amiibo/): Track your amiibo collection with PortalDex: 281 amiibo across every series, with release dates, series and format, completion stats and an indicative price guide.
+- [Disney infinity collection tracker](https://www.jensen-innovation.com/portaldex/disney-infinity/): Track your Disney Infinity collection with PortalDex: 326 items across 1.0, 2.0 and 3.0 — figures, play set pieces, 181 power discs and toy box games.
+- [Lego dimensions collection tracker](https://www.jensen-innovation.com/portaldex/lego-dimensions/): Track your LEGO Dimensions collection with PortalDex: 352 characters, vehicles and gadgets, every pack, rebuilds and abilities, plus a which-pack-do-I-need guide.
+- [App Store](https://apps.apple.com/app/id6779376140)
+- [Google Play](https://play.google.com/store/apps/details?id=com.portaldex.app)
 - [Privacy policy](https://www.jensen-innovation.com/portaldex/privacy/)
+
+## Optional
+- [Full text for LLMs](https://www.jensen-innovation.com/llms-full.txt)
 - Contact: klaus@jensen-innovation.com

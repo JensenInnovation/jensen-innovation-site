@@ -1,0 +1,81 @@
+# PortalDex — complete description
+
+PortalDex is an iPhone and Android app by Jensen Innovation (Klaus Jensen) for toys-to-life collectors. It is an unofficial fan app. Store links: https://apps.apple.com/app/id6779376140 and https://play.google.com/store/apps/details?id=com.portaldex.app.
+
+## Frequently asked questions
+**What is PortalDex?** PortalDex is an iPhone and Android app for toys-to-life collectors. It tracks Skylanders figures, Skylanders cards, amiibo, Disney Infinity and LEGO Dimensions in one app.
+**Does PortalDex need an account or internet?** No. It works fully offline with no account, no ads and no tracking. Your collection stays on your device.
+**Which languages does PortalDex support?** English, German, French, Spanish, Italian, Dutch, Polish, Portuguese, Japanese, Korean and Chinese (Simplified and Traditional).
+**Does PortalDex show what my figures are worth?** It includes an indicative, community-maintained price guide with loose and boxed values in 16 currencies.
+**Can I export my collection?** Yes, as CSV or PDF — useful for backups, insurance and trading.
+**Is PortalDex official?** No. It is an independent fan app by Jensen Innovation and is not affiliated with Activision, Nintendo, Disney, the LEGO Group or Topps.
+
+## Skylanders collection tracker
+Page: https://www.jensen-innovation.com/portaldex/skylanders/
+
+PortalDex has a complete checklist of Skylanders figures from all six games, so you can see exactly which ones you own and which you are still missing.
+
+- All six games: Spyro's Adventure, Giants, SWAP Force, Trap Team, SuperChargers and Imaginators.
+- 588 catalog entries: characters plus collector variants (Legendary, Eon's Elite, LightCore, Dark, Series 2 and 3 reposes, chase and event editions), 60 traps, 36 vehicles, 29 creation crystals, magic items, adventure packs and trophies.
+- Each figure's About page shows its element, game, catchphrase, attacks, Soul Gem and Wow Pow abilities, upgrade paths and tips for telling variants apart.
+- SWAP Force swappers are tracked as one figure; Imaginators Senseis show their battle class; SuperChargers vehicles show land, sea or sky.
+- Android: hold a figure against your phone to identify it with NFC (phones with a MIFARE Classic–capable NFC chip).
+- Completion by game and element, missing list, duplicates, wishlist, notes and an indicative price guide.
+
+**Is there an app to track my Skylanders collection?** Yes. PortalDex is an iPhone and Android app with a complete Skylanders checklist for all six games. You mark what you own and it shows your completion and what is missing.
+**Can I scan Skylanders figures with my phone?** On Android, yes: PortalDex reads Skylanders figures with NFC on phones whose NFC chip supports MIFARE Classic. Not every phone does; on those phones you add figures manually. iPhone uses manual adding.
+**Does PortalDex include variants like Legendary and Eon's Elite?** Yes — Legendary, Eon's Elite, LightCore, Dark, Series 2/3 reposes, chase and event variants are separate entries, so you can track each one.
+
+## Skylanders cards checklist
+Page: https://www.jensen-innovation.com/portaldex/skylanders-cards/
+
+PortalDex includes a full checklist of Skylanders cards, so you can track your Topps trading cards, Battlecast cards and the stat cards that came with your figures.
+
+- 1,238 cards in 8 sets.
+- Topps Skylanders Giants (2012, 212 cards), Topps Skylanders SWAP Force (2013, 231), Topps Skylanders Trap Team (2014, 202).
+- Skylanders Battlecast (2016, 306 cards) with element and rarity (Common, Rare, Epic, Ultimate); silver and gold foils noted.
+- Figure cards packed with the toys: Spyro's Adventure (49), Giants (65), SWAP Force (84) and Trap Team (89). Completion counts these 287 figure cards.
+- Cards are sorted in checklist order by printed number, and character cards link to their Skylanders figure (and back).
+
+**Is there a checklist app for Skylanders trading cards?** Yes. PortalDex lists all 1,238 Skylanders cards — Topps Giants, SWAP Force and Trap Team, Skylanders Battlecast and the figure cards — and tracks which ones you own per set.
+**Does PortalDex include Skylanders Battlecast cards?** Yes, all 306 Battlecast cards with their element and rarity.
+
+## Amiibo collection tracker
+Page: https://www.jensen-innovation.com/portaldex/amiibo/
+
+PortalDex tracks your amiibo next to your other toys-to-life collections, with the full lineup across every amiibo series.
+
+- 281 amiibo across every amiibo series — figures, yarn figures, cards and more.
+- Each amiibo shows its series, format and North American release date.
+- Android: identify amiibo with NFC.
+- Completion by series, missing list, wishlist, duplicates and an indicative price guide.
+
+**Is there an offline app to track my amiibo collection?** Yes. PortalDex works fully offline, with no account, and lists 281 amiibo by series.
+
+## Disney infinity collection tracker
+Page: https://www.jensen-innovation.com/portaldex/disney-infinity/
+
+PortalDex has a complete Disney Infinity checklist for all three editions, including power discs and play sets.
+
+- 326 items across Disney Infinity 1.0, 2.0 and 3.0.
+- Figures (incl. rare and exclusive variants), play set pieces, 181 power discs and toy box games.
+- Power discs show their effect, shape and series.
+- Android: identify Disney Infinity figures with NFC on supported phones.
+
+**Is there an app to track Disney Infinity figures and power discs?** Yes. PortalDex lists 326 Disney Infinity items — figures, play set pieces, power discs and toy box games — across 1.0, 2.0 and 3.0.
+
+## Lego dimensions collection tracker
+Page: https://www.jensen-innovation.com/portaldex/lego-dimensions/
+
+PortalDex tracks every LEGO Dimensions character, vehicle and gadget and tells you which pack you need for the ones you are missing.
+
+- 352 characters, vehicles and gadgets from every LEGO Dimensions world.
+- Each item shows its pack (Starter, Level, Team, Fun or Story Pack) and number, wave, release date and abilities.
+- Vehicles show all three rebuilds.
+- "Which pack do I need" guide.
+- Android: identify LEGO Dimensions characters and vehicles with NFC.
+
+**Is there an app to track my LEGO Dimensions collection?** Yes. PortalDex lists 352 LEGO Dimensions characters, vehicles and gadgets with their packs and abilities, and shows which pack you need.
+
+## Disclaimer
+PortalDex is an independent fan app and is not affiliated with, endorsed by or licensed by Activision Publishing, Inc., Nintendo Co., Ltd., The Walt Disney Company, the LEGO Group or The Topps Company, Inc. Skylanders, amiibo, Disney Infinity, LEGO Dimensions, Topps and all related names and marks are trademarks of their respective owners.
