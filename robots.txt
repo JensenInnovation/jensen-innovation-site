@@ -1,0 +1,5 @@
+# Everyone (search engines and AI crawlers) is welcome.
+User-agent: *
+Allow: /
+
+Sitemap: https://www.jensen-innovation.com/sitemap.xml

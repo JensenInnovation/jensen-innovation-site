@@ -1,0 +1,86 @@
+/* Jensen Innovation — shared site styles. Light + dark via prefers-color-scheme. */
+:root {
+  --bg: #f7f8fb;
+  --surface: #ffffff;
+  --text: #16181d;
+  --muted: #5b6270;
+  --border: #e3e6ec;
+  --accent: #3b5bdb;
+  --accent-soft: #e8edff;
+  --radius: 14px;
+  --max: 920px;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0f1115;
+    --surface: #171a21;
+    --text: #e9ecf2;
+    --muted: #9aa3b2;
+    --border: #262b35;
+    --accent: #8ca3ff;
+    --accent-soft: #1d2440;
+  }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font: 16px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+a { color: var(--accent); }
+img { max-width: 100%; height: auto; }
+.wrap { max-width: var(--max); margin: 0 auto; padding: 0 16px; }
+
+header.site {
+  border-bottom: 1px solid var(--border);
+  background: var(--surface);
+}
+header.site .wrap {
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 16px; padding-top: 14px; padding-bottom: 14px;
+}
+header.site .brand { font-weight: 700; color: var(--text); text-decoration: none; }
+header.site nav a { margin-left: 18px; text-decoration: none; color: var(--muted); }
+header.site nav a:hover { color: var(--text); }
+
+main { padding: 40px 0 56px; }
+h1 { font-size: clamp(1.8rem, 4vw, 2.6rem); line-height: 1.2; margin: 0 0 12px; }
+h2 { font-size: 1.35rem; margin: 40px 0 12px; }
+h3 { font-size: 1.05rem; margin: 0 0 6px; }
+.lead { font-size: 1.15rem; color: var(--muted); max-width: 720px; }
+
+.hero { display: flex; gap: 28px; align-items: center; flex-wrap: wrap; }
+.hero img.icon { width: 112px; height: 112px; border-radius: 24px; flex: none; }
+.hero .text { flex: 1 1 320px; }
+
+.stores { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 20px; }
+.btn {
+  display: inline-block; padding: 11px 18px; border-radius: 10px;
+  background: var(--accent); color: #fff; text-decoration: none; font-weight: 600;
+}
+@media (prefers-color-scheme: dark) { .btn { color: #0f1115; } }
+.btn.secondary { background: var(--accent-soft); color: var(--accent); }
+
+.grid {
+  display: grid; gap: 16px;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+}
+.card {
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: 18px 20px;
+}
+.card p { margin: 0; color: var(--muted); }
+.app-card { display: flex; gap: 16px; align-items: center; text-decoration: none; color: var(--text); }
+.app-card img { width: 64px; height: 64px; border-radius: 14px; flex: none; }
+
+ul.ticks { padding-left: 1.2em; }
+ul.ticks li { margin: 4px 0; }
+
+.prose { max-width: 760px; }
+.prose h2 { font-size: 1.15rem; margin-top: 28px; }
+.note { font-size: 0.9rem; color: var(--muted); }
+
+footer.site { border-top: 1px solid var(--border); padding: 24px 0 40px; color: var(--muted); font-size: 0.9rem; }
+footer.site a { color: var(--muted); }

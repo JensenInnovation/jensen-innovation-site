@@ -1,0 +1,17 @@
+# Jensen Innovation
+
+> Jensen Innovation makes small, offline-first apps by Klaus Jensen (Denmark). Its main app is PortalDex.
+
+## PortalDex
+
+PortalDex is an unofficial collection tracker app for toys-to-life collectors, for iPhone and Android. It covers five collections: Skylanders figures (all six games, including variants, traps, vehicles, magic items and creation crystals), Skylanders cards (over 1,200 Topps, Battlecast and figure cards), amiibo, Disney Infinity (figures, play sets, power discs, toy box games) and LEGO Dimensions (characters, vehicles, gadgets).
+
+Features: full browsable catalogs; an About section per figure with release info, abilities, upgrade paths, catchphrases and variant identification tips; completion stats by game, set, element or series; a missing list; an indicative community price guide (loose and boxed, 16 currencies); duplicates, decks, wishlist, notes; CSV and PDF export; NFC figure scanning on Android; 12 languages. Works offline, no account, no ads, no tracking.
+
+PortalDex is an independent fan app, not affiliated with Activision, Nintendo, Disney, the LEGO Group or Topps.
+
+- [PortalDex home page](https://www.jensen-innovation.com/portaldex/)
+- [PortalDex on the App Store](https://apps.apple.com/app/id6779376140)
+- [PortalDex on Google Play](https://play.google.com/store/apps/details?id=com.portaldex.app)
+- [Privacy policy](https://www.jensen-innovation.com/portaldex/privacy/)
+- Contact: klaus@jensen-innovation.com
