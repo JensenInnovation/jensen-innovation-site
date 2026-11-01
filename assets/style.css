@@ -105,7 +105,8 @@ a:focus-visible, .btn:focus-visible { outline: 3px solid var(--accent); outline-
 .shots figcaption { font-size: 0.9rem; color: var(--muted); margin-top: 8px; }
 
 /* Real figure photos */
-.figures { display: grid; gap: 10px; grid-template-columns: repeat(auto-fill, minmax(110px, 1fr)); margin-top: 16px; }
+.figures { display: grid; gap: 10px; grid-template-columns: repeat(4, 1fr); max-width: 620px; margin-top: 16px; }
+@media (max-width: 480px) { .figures { grid-template-columns: repeat(2, 1fr); } }
 .figures img { width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 12px; border: 1px solid var(--border); }
 
 /* Homepage hero */
@@ -118,3 +119,12 @@ a:focus-visible, .btn:focus-visible { outline: 3px solid var(--accent); outline-
   header.site .wrap { flex-wrap: wrap; gap: 6px 16px; }
   header.site nav a { margin: 0 16px 0 0; }
 }
+
+/* Single full-width screenshot (collection pages) */
+.shots.one { grid-auto-columns: 100%; overflow: visible; margin-top: 24px; }
+@media (min-width: 820px) { .shots.one { grid-auto-columns: 78%; } }
+
+/* Feature cards */
+.card.feature h3 { display: flex; gap: 8px; align-items: center; }
+a.card { text-decoration: none; color: var(--text); transition: border-color .15s ease; }
+a.card:hover { border-color: var(--accent); }
