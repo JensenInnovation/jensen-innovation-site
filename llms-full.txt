@@ -23,7 +23,7 @@ PortalDex has a complete checklist of Skylanders figures from all six games, so 
 - Completion by game and element, missing list, duplicates, wishlist, notes and an indicative price guide.
 
 **Is there an app to track my Skylanders collection?** Yes. PortalDex is an iPhone, Android and Windows app with a complete Skylanders checklist for all six games. You mark what you own and it shows your completion and what is missing.
-**Can I scan Skylanders figures with my phone?** On Android, yes: PortalDex reads Skylanders figures with NFC on phones whose NFC chip supports MIFARE Classic. Not every phone does; on those phones you add figures manually. iPhone uses manual adding.
+**Can I scan Skylanders figures with my phone?** On Android, yes: PortalDex reads Skylanders figures with NFC on phones whose NFC chip supports MIFARE Classic. Not every phone does; on those phones you add figures manually. On iPhone and Windows you add figures manually.
 **Does PortalDex include variants like Legendary and Eon's Elite?** Yes — Legendary, Eon's Elite, LightCore, Dark, Series 2/3 reposes, chase and event variants are separate entries, so you can track each one.
 
 ## Skylanders cards checklist
@@ -57,12 +57,12 @@ Page: https://www.jensen-innovation.com/portaldex/disney-infinity/
 
 PortalDex has a complete Disney Infinity checklist for all three editions, including power discs and play sets.
 
-- 326 items across Disney Infinity 1.0, 2.0 and 3.0.
+- 324 items across Disney Infinity 1.0, 2.0 and 3.0.
 - Figures (incl. rare and exclusive variants), play set pieces, 181 power discs and toy box games.
 - Power discs show their effect, shape and series.
 - Android: identify Disney Infinity figures with NFC on supported phones.
 
-**Is there an app to track Disney Infinity figures and power discs?** Yes. PortalDex lists 326 Disney Infinity items — figures, play set pieces, power discs and toy box games — across 1.0, 2.0 and 3.0.
+**Is there an app to track Disney Infinity figures and power discs?** Yes. PortalDex lists 324 Disney Infinity items — figures, play set pieces, power discs and toy box games — across 1.0, 2.0 and 3.0.
 
 ## Lego dimensions collection tracker
 Page: https://www.jensen-innovation.com/portaldex/lego-dimensions/
