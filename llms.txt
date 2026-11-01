@@ -1,6 +1,6 @@
 # Jensen Innovation
 
-> Jensen Innovation makes small, offline-first apps by Klaus Jensen (Denmark). Its main app is PortalDex, a collection tracker for toys-to-life collectors on iPhone and Android.
+> Jensen Innovation makes small, offline-first apps by Klaus Jensen (Denmark). Its main app is PortalDex, a collection tracker for toys-to-life collectors on iPhone, Android and Windows.
 
 PortalDex tracks five collections in one app: Skylanders figures, Skylanders cards, amiibo, Disney Infinity and LEGO Dimensions. It works offline with no account, no ads and no tracking, in 12 languages.
 
@@ -13,6 +13,7 @@ PortalDex tracks five collections in one app: Skylanders figures, Skylanders car
 - [Lego dimensions collection tracker](https://www.jensen-innovation.com/portaldex/lego-dimensions/): Track your LEGO Dimensions collection with PortalDex: 352 characters, vehicles and gadgets, every pack, rebuilds and abilities, plus a which-pack-do-I-need guide.
 - [App Store](https://apps.apple.com/app/id6779376140)
 - [Google Play](https://play.google.com/store/apps/details?id=com.portaldex.app)
+- [Microsoft Store (Windows)](https://apps.microsoft.com/detail/9PMSPXB7BLTJ)
 - [Privacy policy](https://www.jensen-innovation.com/portaldex/privacy/)
 
 ## Optional
