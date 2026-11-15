@@ -1,6 +1,6 @@
 # Jensen Innovation
 
-> Jensen Innovation makes small, offline-first apps by Klaus Jensen (Denmark). Its main app is PortalDex, a collection tracker for toys-to-life collectors on iPhone, Android and Windows.
+> Jensen Innovation makes small, offline-first apps by Klaus Jensen (Denmark): PortalDex, and DahliaDex (coming 2027). PortalDex is a collection tracker for toys-to-life collectors on iPhone, Android and Windows.
 
 PortalDex tracks five collections in one app: Skylanders figures, Skylanders cards, amiibo, Disney Infinity and LEGO Dimensions. It works offline with no account, no ads and no tracking, in 12 languages.
 
@@ -15,6 +15,12 @@ PortalDex tracks five collections in one app: Skylanders figures, Skylanders car
 - [Google Play](https://play.google.com/store/apps/details?id=com.portaldex.app)
 - [Microsoft Store (Windows)](https://apps.microsoft.com/detail/9PMSPXB7BLTJ)
 - [Privacy policy](https://www.jensen-innovation.com/portaldex/privacy/)
+
+## DahliaDex
+DahliaDex is a dahlia variety identifier for iPhone by Jensen Innovation, coming in 2027 (Android later). A camera scan names the most likely dahlia cultivars on the device, offline. It also has a catalog of over 1,100 varieties, My Garden and a Wishlist. No account, no ads, no tracking; 13 languages including Danish, Swedish, Norwegian and Finnish. 10 free scans, then a one-time $9.99 unlock.
+- [DahliaDex app page](https://www.jensen-innovation.com/dahliadex/)
+- [DahliaDex privacy policy](https://www.jensen-innovation.com/dahliadex/privacy/)
+- Photo contributions and contact: dahlia@jensen-innovation.com
 
 ## Optional
 - [Full text for LLMs](https://www.jensen-innovation.com/llms-full.txt)

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="DahliaDex icon">
+  <rect width="256" height="256" rx="56" fill="#2f1840"/>
+  <g transform="translate(128 128)">
+    <g fill="#c2185b">
+      <ellipse rx="18" ry="62" transform="rotate(0)   translate(0 -46)"/>
+      <ellipse rx="18" ry="62" transform="rotate(30)  translate(0 -46)"/>
+      <ellipse rx="18" ry="62" transform="rotate(60)  translate(0 -46)"/>
+      <ellipse rx="18" ry="62" transform="rotate(90)  translate(0 -46)"/>
+      <ellipse rx="18" ry="62" transform="rotate(120) translate(0 -46)"/>
+      <ellipse rx="18" ry="62" transform="rotate(150) translate(0 -46)"/>
+      <ellipse rx="18" ry="62" transform="rotate(180) translate(0 -46)"/>
+      <ellipse rx="18" ry="62" transform="rotate(210) translate(0 -46)"/>
+      <ellipse rx="18" ry="62" transform="rotate(240) translate(0 -46)"/>
+      <ellipse rx="18" ry="62" transform="rotate(270) translate(0 -46)"/>
+      <ellipse rx="18" ry="62" transform="rotate(300) translate(0 -46)"/>
+      <ellipse rx="18" ry="62" transform="rotate(330) translate(0 -46)"/>
+    </g>
+    <g fill="#ec5f93">
+      <ellipse rx="14" ry="40" transform="rotate(15)  translate(0 -30)"/>
+      <ellipse rx="14" ry="40" transform="rotate(60)  translate(0 -30)"/>
+      <ellipse rx="14" ry="40" transform="rotate(105) translate(0 -30)"/>
+      <ellipse rx="14" ry="40" transform="rotate(150) translate(0 -30)"/>
+      <ellipse rx="14" ry="40" transform="rotate(195) translate(0 -30)"/>
+      <ellipse rx="14" ry="40" transform="rotate(240) translate(0 -30)"/>
+      <ellipse rx="14" ry="40" transform="rotate(285) translate(0 -30)"/>
+      <ellipse rx="14" ry="40" transform="rotate(330) translate(0 -30)"/>
+    </g>
+    <circle r="20" fill="#ffc94d"/>
+  </g>
+</svg>

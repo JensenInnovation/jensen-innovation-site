@@ -77,5 +77,14 @@ PortalDex tracks every LEGO Dimensions character, vehicle and gadget and tells y
 
 **Is there an app to track my LEGO Dimensions collection?** Yes. PortalDex lists 352 LEGO Dimensions characters, vehicles and gadgets with their packs and abilities, and shows which pack you need.
 
+# DahliaDex — complete description
+
+DahliaDex is a dahlia variety identifier for iPhone by Jensen Innovation, coming in 2027 (Android later). A camera scan names the most likely dahlia cultivars on the device, offline. It also has a catalog of over 1,100 varieties, My Garden and a Wishlist. No account, no ads, no tracking; 13 languages including Danish, Swedish, Norwegian and Finnish. 10 free scans, then a one-time $9.99 unlock.
+
+**Can an app tell dahlia varieties apart?** Often, but not always: many dahlias look alike and color changes with weather. DahliaDex shows its three best guesses with reference photos and says when it is not sure.
+**Does DahliaDex need internet or an account?** No. Scanning and everything else works offline on the iPhone, with no account.
+**How can I help?** Share a photo of a variety you grow from the app, or email it with the variety name to dahlia@jensen-innovation.com. Approved photos are credited.
+Page: https://www.jensen-innovation.com/dahliadex/ · Privacy: https://www.jensen-innovation.com/dahliadex/privacy/
+
 ## Disclaimer
 PortalDex is an independent fan app and is not affiliated with, endorsed by or licensed by Activision Publishing, Inc., Nintendo Co., Ltd., The Walt Disney Company, the LEGO Group or The Topps Company, Inc. Skylanders, amiibo, Disney Infinity, LEGO Dimensions, Topps and all related names and marks are trademarks of their respective owners.
