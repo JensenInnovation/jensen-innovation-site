@@ -79,10 +79,10 @@ PortalDex tracks every LEGO Dimensions character, vehicle and gadget and tells y
 
 # DahliaDex — complete description
 
-DahliaDex is a dahlia variety identifier for iPhone by Jensen Innovation, coming in 2027 (Android later). A camera scan names the most likely dahlia cultivars on the device, offline. It also has a catalog of over 1,100 varieties, My Garden and a Wishlist. No account, no ads, no tracking; 13 languages including Danish, Swedish, Norwegian and Finnish. 10 free scans, then a one-time $9.99 unlock.
+DahliaDex is a dahlia variety identifier by Jensen Innovation. The iPhone version is in App Store review (coming soon: https://apps.apple.com/app/id6832678904); Android is in testing and will follow. A camera scan names the most likely dahlia cultivars on the device, offline. It also has a catalog of over 1,800 varieties, a Wishlist, and My Garden, a season journal (planting, first bloom, lifting, storage, season report) with tips and reminders from your local frost dates. My Garden is free. No account, no ads, no tracking; 13 languages including Danish, Swedish, Norwegian and Finnish. 10 free scans, then a one-time $9.99 unlock.
 
 **Can an app tell dahlia varieties apart?** Often, but not always: many dahlias look alike and color changes with weather. DahliaDex shows its three best guesses with reference photos and says when it is not sure.
-**Does DahliaDex need internet or an account?** No. Scanning and everything else works offline on the iPhone, with no account.
+**Does DahliaDex need internet or an account?** No. Scanning and everything else works offline on the phone, with no account.
 **How can I help?** Share a photo of a variety you grow from the app, or email it with the variety name to dahlia@jensen-innovation.com. Approved photos are credited.
 Page: https://www.jensen-innovation.com/dahliadex/ · Privacy: https://www.jensen-innovation.com/dahliadex/privacy/
 
