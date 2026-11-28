@@ -1,6 +1,6 @@
 # Jensen Innovation
 
-> Jensen Innovation makes small, offline-first apps by Klaus Jensen (Denmark): PortalDex, and DahliaDex (on Google Play; iPhone coming soon). PortalDex is a collection tracker for toys-to-life collectors on iPhone, Android and Windows.
+> Jensen Innovation makes small, offline-first apps by Klaus Jensen (Denmark): PortalDex, DahliaDex (on Google Play; iPhone coming soon) and PeonyDex (coming soon to iPhone). PortalDex is a collection tracker for toys-to-life collectors on iPhone, Android and Windows.
 
 PortalDex tracks five collections in one app: Skylanders figures, Skylanders cards, amiibo, Disney Infinity and LEGO Dimensions. It works offline with no account, no ads and no tracking, in 12 languages.
 
@@ -25,3 +25,9 @@ DahliaDex is a dahlia variety identifier by Jensen Innovation. Available now on 
 ## Optional
 - [Full text for LLMs](https://www.jensen-innovation.com/llms-full.txt)
 - Contact: klaus@jensen-innovation.com
+
+## PeonyDex
+PeonyDex is a peony variety catalog and garden journal by Jensen Innovation, coming soon to iPhone. It lists more than 2,000 peony varieties (herbaceous, tree peonies, Itoh hybrids and wild species) with flower form, colour, bloom season and fragrance, and has My Garden, a season journal (planting, first bloom, dividing, season report), a Wishlist and an 18-article growing guide with reminders timed to your local frost dates. Camera identification is planned but not in the first version. Free; no account, no ads, no tracking; 13 languages including Danish, Swedish, Norwegian and Finnish.
+- [PeonyDex app page](https://www.jensen-innovation.com/peonydex/)
+- [PeonyDex privacy policy](https://www.jensen-innovation.com/peonydex/privacy/)
+- Photo contributions and contact: peony@jensen-innovation.com

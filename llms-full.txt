@@ -88,3 +88,12 @@ Page: https://www.jensen-innovation.com/dahliadex/ · Privacy: https://www.jense
 
 ## Disclaimer
 PortalDex is an independent fan app and is not affiliated with, endorsed by or licensed by Activision Publishing, Inc., Nintendo Co., Ltd., The Walt Disney Company, the LEGO Group or The Topps Company, Inc. Skylanders, amiibo, Disney Infinity, LEGO Dimensions, Topps and all related names and marks are trademarks of their respective owners.
+
+# PeonyDex — complete description
+
+PeonyDex is a peony variety catalog and garden journal by Jensen Innovation, coming soon to iPhone. It lists more than 2,000 peony varieties (herbaceous, tree peonies, Itoh hybrids and wild species) with flower form, colour, bloom season and fragrance, and has My Garden, a season journal (planting, first bloom, dividing, season report), a Wishlist and an 18-article growing guide with reminders timed to your local frost dates. Camera identification is planned but not in the first version. Free; no account, no ads, no tracking; 13 languages including Danish, Swedish, Norwegian and Finnish.
+
+**Can PeonyDex identify a peony from a photo?** Not yet. The first version is a catalog, journal and guide; camera identification follows once enough photos of each variety are collected. Until then, filter by plant group, flower form, colour and season.
+**Does PeonyDex need internet or an account?** No. Everything works offline on the phone, with no account.
+**How can I help?** Share a photo of a variety you grow from the app, or email it with the variety name to peony@jensen-innovation.com. Approved photos are credited.
+
